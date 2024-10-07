@@ -1,5 +1,5 @@
 {
-  "name": "backend",
+  "name": "cse341",
   "version": "1.0.0",
   "main": "server.js",
   "scripts": {
@@ -11,9 +11,7 @@
   "license": "ISC",
   "description": "",
   "dependencies": {
-    "body-parser": "^1.20.3",
-    "express": "^4.21.0",
-    "mongodb": "^6.9.0"
+    "express": "^4.21.0"
   },
   "devDependencies": {
     "nodemon": "^3.1.7"
